@@ -1,9 +1,12 @@
-    #                                                     Hi 👋,I'm Nithin PK
-                                              A passionate cyber security from India 🇮🇳
+#                                                     Hi 👋,I'm Nithin PK
+#                                          A passionate cyber security from India 🇮🇳
 
 👨‍💻 I’m currently working on -
+
 📑 Check out my resume here -
+
 💬 Ask me about Cyber Security
+
 📫 Reach out to me at - nithinpkbe2014@gmail.com
 
 # 📊 GitHub Stats:
